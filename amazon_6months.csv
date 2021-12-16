@@ -16,7 +16,7 @@
 460,LFU Cache,34.2%,Hard,1.1854052630535123, https://leetcode.com/problems/lfu-cache
 1167,Minimum Cost to Connect Sticks,62.8%,Medium,1.1814314904899383, https://leetcode.com/problems/minimum-cost-to-connect-sticks
 42,Trapping Rain Water,48.9%,Hard,1.1037585327659545, https://leetcode.com/problems/trapping-rain-water
-138,Copy List with Random Pointer,36.4%,Medium,1.102640803567812, https://leetcode.com/problems/copy-list-with-random-pointer
+138,**Copy** List with Random Pointer,36.4%,Medium,1.102640803567812, https://leetcode.com/problems/copy-list-with-random-pointer
 127,Word Ladder,29.6%,Medium,1.0425997036961998, https://leetcode.com/problems/word-ladder
 295,Find Median from Data Stream,44.3%,Hard,1.0194793992505597, https://leetcode.com/problems/find-median-from-data-stream
 348,Design Tic-Tac-Toe,54.3%,Medium,0.9433716904768258, https://leetcode.com/problems/design-tic-tac-toe
